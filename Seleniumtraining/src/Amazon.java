@@ -10,6 +10,7 @@ public class Amazon {
 
 	public static void main(String[] args)throws InterruptedException {
 		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chromedriver.exe");
 		System.setProperty("webdriver.chrome.silentOutput", "true");
 		java.util.logging.Logger.getLogger("org.openqa.selenium").setLevel(Level.OFF);
